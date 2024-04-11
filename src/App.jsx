@@ -12,11 +12,13 @@ function App() {
   const [randomIcon, setRandomIcon] = React.useState(0);
 
   const arrFasIcons = Object.keys(library.definitions.fas);
+  const iconName = arrFasIcons[randomIcon];
 
-  console.log(randomIcon);
+  console.log(arrFasIcons[randomIcon]);
   return (
     <div className="wrapper">
       <Icon randomIcon={randomIcon} arrFasIcons={arrFasIcons} />
+      <p>{iconName}</p>
       <Button setRandomIcon={setRandomIcon} arrFasIcons={arrFasIcons} />
     </div>
   );
