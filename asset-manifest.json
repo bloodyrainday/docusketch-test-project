@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/docusketch-test-project/static/css/main.e6c13ad2.css",
-    "main.js": "/docusketch-test-project/static/js/main.6288c1c9.js",
+    "main.css": "/docusketch-test-project/static/css/main.60e1fbb8.css",
+    "main.js": "/docusketch-test-project/static/js/main.070071a8.js",
     "index.html": "/docusketch-test-project/index.html",
-    "main.e6c13ad2.css.map": "/docusketch-test-project/static/css/main.e6c13ad2.css.map",
-    "main.6288c1c9.js.map": "/docusketch-test-project/static/js/main.6288c1c9.js.map"
+    "main.60e1fbb8.css.map": "/docusketch-test-project/static/css/main.60e1fbb8.css.map",
+    "main.070071a8.js.map": "/docusketch-test-project/static/js/main.070071a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.6288c1c9.js"
+    "static/css/main.60e1fbb8.css",
+    "static/js/main.070071a8.js"
   ]
 }
