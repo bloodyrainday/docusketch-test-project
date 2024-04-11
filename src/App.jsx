@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="wrapper">
       <Icon randomIcon={randomIcon} arrFasIcons={arrFasIcons} />
-      <p>{iconName}</p>
+      <p className="name">{iconName}</p>
       <Button setRandomIcon={setRandomIcon} arrFasIcons={arrFasIcons} />
     </div>
   );
